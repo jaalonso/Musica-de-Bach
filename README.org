@@ -275,16 +275,16 @@
 + BWV 213: Laßt uns sorgen, laßt uns wachen (Hercules auf dem Scheidewege)
 + BWV 214: Tönet, ihr Pauken! Erschallet Trompeten!
 + BWV 215: Preise dein Glücke, gesegnetes Sachsen
-+ BWV 216: Vergnügte Pleißenstadt (incompleta)
-+ BWV 216a: Erwählte Pleißenstadt (perdida)
-+ BWV 217: Gedenke, Herr, wie es uns gehet (falsa)
-+ BWV 218: Gott der Hoffnung erfülle euch (falsa, en realidad de Georg Philipp Telemann)
-+ BWV 219: Siehe, es hat überwunden der Löwe (falsa, en realidad de Georg Philipp Telemann)
-+ BWV 220: Lobt ihn mit Herz und Munde (falsa)
-+ BWV 221: Wer sucht die Pracht, wer wünscht den Glanz (falsa)
-+ BWV 222: Mein Odem ist schwach (falsa, en realidad de Johann Ernst Bach)
-+ BWV 223: Meine Seele soll Gott loben (falsa)
-+ BWV 224: Reißt euch los, bedrängte Sinnen (pequeño fragmento) (falsa)
++ BWV 216: Vergnügte Pleißenstadt
++ BWV 216a: Erwählte Pleißenstadt
++ BWV 217: Gedenke, Herr, wie es uns gehet
++ BWV 218: Gott der Hoffnung erfülle euch
++ BWV 219: Siehe, es hat überwunden der Löwe
++ BWV 220: Lobt ihn mit Herz und Munde
++ BWV 221: Wer sucht die Pracht, wer wünscht den Glanz
++ BWV 222: Mein Odem ist schwach
++ BWV 223: Meine Seele soll Gott loben
++ BWV 224: Reißt euch los, bedrängte Sinnen (pequeño fragmento)
 
 ** Motetes (225-231)
 
@@ -294,39 +294,39 @@
 + BWV 228: Fürchte dich nicht
 + BWV 229: Komm, Jesu, komm
 + BWV 230: Lobet den Herrn, alle Heiden (Salmo 117)
-+ BWV 231: Sei Lob und Preis mit Ehren (2ª sección del motete BWV Anh. 160; basado en la Cantata n.º 28)2
++ BWV 231: Sei Lob und Preis mit Ehren
 
 ** Obras litúrgicas en latín (232-243a)
 
 + BWV 232: Misa en si menor
 + BWV 233: Misa en fa mayor
-+ BWV 233a: Kyrie en fa mayor (versión alternativa del Kyrie del BWV 233)
++ BWV 233a: Kyrie en fa mayor
 + BWV 234: Misa en la mayor
 + BWV 235: Misa en sol menor
 + BWV 236: Misa en sol mayor
 + BWV 237: Sanctus en do mayor
 + BWV 238: Sanctus en re mayor
-+ BWV 239: Sanctus en re menor (dudoso)
++ BWV 239: Sanctus en re menor
 + BWV 240: Sanctus en sol mayor
-+ BWV 241: Sanctus en re mayor (arreglo del Sanctus de Missa superba de Johann Kaspar Kerll)
-+ BWV 242: Christe eleison en sol menor (com puesto por Bach para una misa de Francesco Durante , BWV Anh. 26)3
++ BWV 241: Sanctus en re mayor
++ BWV 242: Christe eleison en sol menor
 + BWV 243: Magnificat en re mayor
-+ BWV 243a: Magnificat en mi bemol mayor (versión previa de BWV 243)
++ BWV 243a: Magnificat en mi bemol mayor
 
 *** Pasiones y oratorios (244-249)
 
 + BWV 244: Pasión según San Mateo (Matthäus–Passion)
-+ BWV 244a: Trauermusik Klagt, Kinder, klagt es aller Welt, BWV 244a (cantata fúnebre para el príncipe Leopold of Anhalt–Cöthen perdida)
-+ BWV 244b: Pasión según San Mateo (versión previa)
++ BWV 244a: Trauermusik Klagt, Kinder, klagt es aller Welt,
++ BWV 244b: Pasión según San Mateo
 + BWV 245: Pasión según San Juan (Johannes–Passion)
 + BWV 245a: Himmel reiße, Welt erbebe (aria de la segunda versión de la Pasión según San Juan)
 + BWV 245b: Zerschmettert mich, ihr Felsen und ihr Hügel (aria de la segunda versión de la Pasión según San Juan)
 + BWV 245c: Ach, windet euch nicht so, geplagte Seelen (aria de la segunda versión de la Pasión según San Juan)
-+ BWV 246: Pasión según San Lucas (Lukas–Passion) (apócrifa, autor desconocido)
-+ BWV 247: Pasión según San Marcos (Markus–Passion) (se conserva el libreto, pero gran parte de la música está perdida, aunque ha sido reconstruida)
-+ BWV 248: Oratorio de Navidad (Weihnachts–Oratorium)
-+ BWV 249: Oratorio de Pascua (Oster–Oratorium)
-+ BWV 11: Oratorio de la Ascensión (Himmelfahrts–Oratorium)
++ BWV 246: Pasión según San Lucas
++ BWV 247: Pasión según San Marcos
++ BWV 248: Oratorio de Navidad
++ BWV 249: Oratorio de Pascua
++ BWV 11: Oratorio de la Ascensión
 
 ** Corales (250-438)
 
@@ -620,7 +620,7 @@
 + BWV 526: Sonata a trío en do menor
 + BWV 527: Sonata a trío en re menor
 + BWV 528: Sonata a trío en mi menor
-+ BWV 528a: Andante en re menor (versión alternativa del segundo movimiento de BWV 528)
++ BWV 528a: Andante en re menor
 + BWV 529: Sonata a trío en do mayor
 + BWV 530: Sonata a trío en sol mayor
 
@@ -628,27 +628,27 @@
 
 + BWV 531: Preludio y fuga en do mayor
 + BWV 532: Preludio y fuga en re mayor
-+ BWV 532a: Fuga en re mayor (versión alternativa de la fuga de BWV 532)
++ BWV 532a: Fuga en re mayor
 + BWV 533: Preludio y fuga en mi menor
-+ BWV 533a: Preludio y fuga en mi menor (versión alternativa de BWV 533 without pedals)
++ BWV 533a: Preludio y fuga en mi menor
 + BWV 534: Preludio y fuga en fa menor
 + BWV 535: Preludio y fuga en sol menor
-+ BWV 535a: Preludio y fuga en sol menor (versión alternativa de BWV 535)
++ BWV 535a: Preludio y fuga en sol menor
 + BWV 536: Preludio y fuga en la mayor
-+ BWV 536a: Preludio y fuga en la mayor (versión alternativa de BWV 536, posiblemente basada en el manuscrito original)
++ BWV 536a: Preludio y fuga en la mayor
 + BWV 537: Fantasía y fuga en do menor
 + BWV 538: Tocata y fuga en re menor ("Dórica")
 + BWV 539: Preludio y fuga en re menor
-+ BWV 539a: Fuga en re menor (ver BWV 1000 para el arreglo de laúd, 2º mov de BWV 1001 para el arreglo de violín)
++ BWV 539a: Fuga en re menor
 + BWV 540: Tocata y fuga en fa mayor
 + BWV 541: Preludio y fuga en sol mayor
 + BWV 542: Fantasía y fuga "grande" en sol menor
-+ BWV 542a: Fuga en sol menor (versión alternativa de la fuga de BWV 542)
++ BWV 542a: Fuga en sol menor
 + BWV 543: Preludio y fuga en la menor
 + BWV 544: Preludio y fuga en si menor
 + BWV 545: Preludio y fuga en do mayor
-+ BWV 545a: Preludio y fuga en do mayor (versión alternativa de BWV 545)
-+ BWV 545b: Prelude, trío y fuga en si bemol mayor (versión alternativa de BWV 545; el trío es un arreglo del finale de BWV 1029; algunas partes posiblemente de Johann Tobias Krebs)
++ BWV 545a: Preludio y fuga en do mayor
++ BWV 545b: Prelude, trío y fuga en si bemol mayor
 + BWV 546: Preludio y fuga en do menor
 + BWV 547: Preludio y fuga en do mayor
 + BWV 548: Preludio y fuga en mi menor "Wedge"
@@ -664,60 +664,60 @@
 + BWV 558: Ocho breves preludios y fugas: Preludio y fuga en sol menor
 + BWV 559: Ocho breves preludios y fugas: Preludio y fuga en la menor
 + BWV 560: Ocho breves preludios y fugas: Preludio y fuga en si bemol mayor
-+ BWV 561: Fantasía y fuga en la menor (apócrifo, posiblemente de Johann Christian Kittel)
-+ BWV 562: Fantasía y fuga en do menor (fuga incompleta)
-+ BWV 563: Fantasía en si menor (Fantasía e imitatio) (apócrifo)
++ BWV 561: Fantasía y fuga en la menor
++ BWV 562: Fantasía y fuga en do menor
++ BWV 563: Fantasía en si menor
 + BWV 564: Tocata, adagio y fuga en do mayor
-+ BWV 565: Tocata y fuga en re menor (discutido, manuscrito original no encontrado)
++ BWV 565: Tocata y fuga en re menor
 + BWV 566: Tocata y fuga en mi mayor
-+ BWV 566a: Tocata en mi mayor (version previa de BWV 566)
-+ BWV 567: Preludio en do mayor (dudoso, posiblemente de Johann Ludwig Krebs)
-+ BWV 568: Preludio en sol mayor (dudoso)
++ BWV 566a: Tocata en mi mayor
++ BWV 567: Preludio en do mayor
++ BWV 568: Preludio en sol mayor
 + BWV 569: Preludio en la menor
 + BWV 570: Fantasía en do mayor
-+ BWV 571: Fantasía (Concerto) en sol mayor (apócrifo)
++ BWV 571: Fantasía (Concerto) en sol mayor
 + BWV 572: Fantasía en sol mayor (Pièce d'Orgue)
-+ BWV 573: Fantasía en do mayor (incompleta, del Pequeño libro de Anna Magdalena Bach de 1722)
-+ BWV 574: Fuga en do menor (sobre el tema de Legrenzi)
-+ BWV 574a: Fuga en do menor (versión alternativa de BWV 574)
-+ BWV 574b: Fuga en do menor (versión alternativa de BWV 574)
++ BWV 573: Fantasía en do mayor
++ BWV 574: Fuga en do menor
++ BWV 574a: Fuga en do menor
++ BWV 574b: Fuga en do menor
 + BWV 575: Fuga en do menor
-+ BWV 576: Fuga en sol mayor (dudoso)
-+ BWV 577: Fuga en sol mayor à la Gigue (dudoso)
++ BWV 576: Fuga en sol mayor
++ BWV 577: Fuga en sol mayor à la Gigue
 + BWV 578: Pequeña fuga en sol menor
-+ BWV 579: Fuga en si menor (sobre un tema de Corelli, de Op. 3, n.º 4)
-+ BWV 580: Fuga en re mayor (dudoso)
-+ BWV 581: Fuga en sol mayor (no es de Bach, compuesta por Gottfried August Homilius)
++ BWV 579: Fuga en si menor
++ BWV 580: Fuga en re mayor
++ BWV 581: Fuga en sol mayor
 + BWV 582: Passacaglia y fuga en do menor
 
 *** Tríos y otras piezas para órgano (583-591)
 
-+ BWV 583: Trío en re menor (apócrifo, posiblemente una transcrición de un trío de cámara de otro compositor)
-+ BWV 584: Trío en sol menor (apócrifo, una versión de BWV 166/2 u otro, perdido, aria)
-+ BWV 585: Trío en do menor (apócrifo, basado en Johann Friedrich Fasch)
-+ BWV 586: Trío en sol mayor (apócrifo, posiblemente basado en Georg Philipp Telemann)
-+ BWV 587: Aria en fa mayor (apócrifo, basado en François Couperin)
++ BWV 583: Trío en re menor
++ BWV 584: Trío en sol menor
++ BWV 585: Trío en do menor
++ BWV 586: Trío en sol mayor
++ BWV 587: Aria en fa mayor
 + BWV 588: Canzona en re menor
 + BWV 589: Allabreve en re mayor
-+ BWV 590: Pastorella en fa mayor (primer movimiento probablemente incompleto)
-+ BWV 591: Little Harmonic Labyrinth (Kleines harmonisches Labyrinth) (apócrifo, posiblemente de Johann David Heinichen)
++ BWV 590: Pastorella en fa mayor
++ BWV 591: Little Harmonic Labyrinth
 
 *** Conciertos para órgano (592-598)
 
-+ BWV 592: Concierto en sol mayor (basado en un concierto de Prince Johann Ernst)
-+ BWV 592a: Concierto en sol mayor (un arreglo de BWV 592 para clavecín)
-+ BWV 593: Concierto en la menor (basado en el Concierto Op. 3/8 RV522 para violín de Antonio Vivaldi)
-+ BWV 594: Concierto en do mayor (basado en el Concierto Op. 7ii/5 RV208 'il grosso mogul' para violín de Antonio Vivaldi)
-+ BWV 595: Concierto en do mayor (basado en un concierto de Prince Johann Ernst de Saxe-Weimar)
-+ BWV 596: Concierto en re menor (basado en el Concerto grosso, Op. 3/11 RV565 de Antonio Vivaldi)
-+ BWV 597: Concierto en mi bemol mayor (apócrifo, fuente desconocida)
-+ BWV 598: Pedalexercitium ("Ejercicio Pedal") en sol menor (improvisaciones registradas por C. P. E. Bach)
++ BWV 592: Concierto en sol mayor
++ BWV 592a: Concierto en sol mayor
++ BWV 593: Concierto en la menor
++ BWV 594: Concierto en do mayor
++ BWV 595: Concierto en do mayor
++ BWV 596: Concierto en re menor
++ BWV 597: Concierto en mi bemol mayor
++ BWV 598: Pedalexercitium ("Ejercicio Pedal") en sol menor
 
 *** Preludios corales I: Orgelbüchlein (599-644)
 
 + BWV 599: Adviento. Nun komm, der Heiden Heiland
 + BWV 600: Adviento. Gott, durch deine Güte (oder: Gottes Sohn ist kommen)
-+ BWV 601: Adviento. Herr Christ, der einge Gottessohn (oder: Herr Gott, nun sei gepreiset) (también en la Colección Neumeister)
++ BWV 601: Adviento. Herr Christ, der einge Gottessohn (oder: Herr Gott, nun sei gepreiset)
 + BWV 602: Adviento. Lob sei dem allmächtigen Gott
 + BWV 603: Navidad. Puer natus in Bethlehem
 + BWV 604: Navidad. Gelobet seist du, Jesu Christ
@@ -737,7 +737,7 @@
 + BWV 618: Cuaresma. O Lamm Gottes, unschuldig
 + BWV 619: Cuaresma. Christe, du Lamm Gottes
 + BWV 620: Cuaresma. Christus, der uns selig macht
-+ BWV 620a: Cuaresma. Christus, der uns selig macht (versión más antigua)
++ BWV 620a: Cuaresma. Christus, der uns selig macht
 + BWV 621: Cuaresma. Da Jesus an dem Kreuze stund
 + BWV 622: Cuaresma. O Mensch, bewein dein Sünde groß
 + BWV 623: Cuaresma. Wir danken dir, Herr Jesu Christ
@@ -749,15 +749,15 @@
 + BWV 629: Pascua. Erschienen ist der herrliche Tag
 + BWV 630: Pascua. Heut triumphieret Gottes Sohn
 + BWV 631: Pentecostés. Komm, Gott Schöpfer, heiliger Geist
-+ BWV 631a: Pentecostés. Komm, Gott Schöpfer, heiliger Geist (versión más antigua)
++ BWV 631a: Pentecostés. Komm, Gott Schöpfer, heiliger Geist
 + BWV 632: Herr Jesu Christ, dich zu uns wend'
 + BWV 633: Liebster Jesu, wir sind hier
-+ BWV 634: Liebster Jesu, wir sind hier (versión alternativa de BWV 633)
++ BWV 634: Liebster Jesu, wir sind hier
 + BWV 635: Dies sind die heil'gen zehn Gebot'
 + BWV 636: Vater unser im Himmelreich
 + BWV 637: Durch Adams Fall ist ganz verderbt
 + BWV 638: Es ist das Heil uns kommen her
-+ BWV 639: Ich ruf zu dir, Herr Jesu Christ (también en la Colección Neumeister)
++ BWV 639: Ich ruf zu dir, Herr Jesu Christ
 + BWV 640: In dich hab ich gehoffet, Herr
 + BWV 641: Wenn wir in höchsten Nöten sein
 + BWV 642: Wer nur den lieben Gott läßt walten
@@ -767,7 +767,7 @@
 *** Preludios corales II: Corales Schübler (645-650)
 
 + BWV 645: Wachet auf, ruft uns die Stimme
-+ BWV 646: Wo soll ich fliehen hin (oder: Auf meinen lieben Gott)
++ BWV 646: Wo soll ich fliehen hin
 + BWV 647: Wer nur den lieben Gott läßt walten
 + BWV 648: Meine Seele erhebt den Herren
 + BWV 649: Ach, bleib bei uns, Herr Jesu Christ
@@ -812,8 +812,8 @@
 + BWV 666a: Jesus Christus, unser Heiland (ältere, Weimarer Fassung)
 + BWV 667: Komm, Gott Schöpfer, heiliger Geist
 + BWV 667a/b: Komm, Gott Schöpfer, heiliger Geist (ältere, Weimarer Fassungen)
-+ BWV 668: Vor deinen Thron tret' ich (fragmento)
-+ BWV 668a: Wenn wir in höchsten Nöten (Diktatschrift: fragmento)
++ BWV 668: Vor deinen Thron tret' ich
++ BWV 668a: Wenn wir in höchsten Nöten (Diktatschrift
 
 *** Preludios corales IV: "Misa alemana para órgano" (669-689)
 
@@ -844,10 +844,10 @@
 
 + BWV 690: Wer nur den lieben Gott läßt walten
 + BWV 691: Wer nur den lieben Gott läßt walten
-+ BWV 691a: Wer nur den lieben Gott läßt walten (apócrifo)
-+ BWV 692: Ach, Gott und Herr (apócrifo, compuesto por Johann Gottfried Walther)
-+ BWV 692a: Ach, Gott und Herr (apócrifo, compuesto por Johann Gottfried Walther)
-+ BWV 693: Ach, Gott und Herr (apócrifo, compuesto por Johann Gottfried Walther)
++ BWV 691a: Wer nur den lieben Gott läßt walten
++ BWV 692: Ach, Gott und Herr
++ BWV 692a: Ach, Gott und Herr
++ BWV 693: Ach, Gott und Herr
 + BWV 694: Wo soll ich fliehen hin
 + BWV 695: Christ lag in Todesbanden
 + BWV 695a: Christ lag in Todesbanden
@@ -857,14 +857,14 @@
 + BWV 699: Fughetta: Nun komm, der Heiden Heiland
 + BWV 700: Vom Himmel hoch, da komm' ich her
 + BWV 701: Fughetta: Vom Himmel hoch, da komm' ich her
-+ BWV 702: [Fughetta:] Das Jesulein soll doch mein Trost (dudoso, posiblemente de Johann Ludwig Krebs)
++ BWV 702: [Fughetta:] Das Jesulein soll doch mein Trost
 + BWV 703: Fughetta: Gottes-Sohn ist kommen
 + BWV 704: Fughetta: Lob sei dem allmächtigen Gott
 + BWV 705: Durch Adams Fall ist ganz verderbt
 + BWV 706: Liebster Jesu, wir sind hier
-+ BWV 707: Ich hab' mein' Sach' Gott heimgestellt (dudoso)
-+ BWV 708: Ich hab' mein' Sach' Gott heimgestellt (dudoso)
-+ BWV 708a: Ich hab' mein' Sach' Gott heimgestellt (dudoso)
++ BWV 707: Ich hab' mein' Sach' Gott heimgestellt
++ BWV 708: Ich hab' mein' Sach' Gott heimgestellt
++ BWV 708a: Ich hab' mein' Sach' Gott heimgestellt
 + BWV 709: Herr Jesu Christ, dich zu uns wend'
 + BWV 710: Wir Christenleut'
 + BWV 711: Allein Gott in der Höh' sei Ehr'
@@ -874,12 +874,12 @@
 
 *** Otros preludios corales (714-764)
 
-+ BWV 714: Ach Gott und Herr (también en la Colección Neumeister)
++ BWV 714: Ach Gott und Herr
 + BWV 715: Allein Gott in der Höh sei Ehr
 + BWV 716: Fuga super Allein Gott in der Höh sei Ehr
 + BWV 717: Allein Gott in der Höh sei Ehr'
 + BWV 718: Christ lag in Todesbanden
-+ BWV 719: Der Tag, der ist so freudenreich (también en la Colección Neumeister)
++ BWV 719: Der Tag, der ist so freudenreich
 + BWV 720: Ein feste Burg ist unser Gott
 + BWV 721: Erbarm dich mein, o Herre Gott
 + BWV 722: Gelobet seist du, Jesu Christ
@@ -888,7 +888,7 @@
 + BWV 725: Herr Gott, dich loben wir
 + BWV 726: Herr Jesu Christ, dich zu uns wend
 + BWV 727: Herzlich tut mich verlangen
-+ BWV 728: Jesus, meine Zuversicht (del Pequeño libro de Anna Magdalena Bach de 1722)
++ BWV 728: Jesus, meine Zuversicht
 + BWV 729: In dulci jubilo
 + BWV 730: Liebster Jesu, wir sind hier
 + BWV 731: Liebster Jesu, wir sind hier
@@ -897,23 +897,23 @@
 + BWV 734: Nun freut euch, lieben Christen/Es ist gewisslich an der Zeit
 + BWV 735: Valet will ich dir geben
 + BWV 736: Valet will ich dir geben
-+ BWV 737: Vater unser im Himmelreich (también en la Colección Neumeister)
++ BWV 737: Vater unser im Himmelreich
 + BWV 738: Von Himmel hoch, da komm' ich her
 + BWV 738a: Von Himmel hoch, da komm' ich her
 + BWV 739: Wie schön leuchtet der Morgenstern
-+ BWV 740: Wir glauben all' an einen Gott, Vater (apócrifo)
++ BWV 740: Wir glauben all' an einen Gott, Vater
 + BWV 741: Ach Gott, von Himmel sieh' darein
-+ BWV 742: Ach Herr, mich armen Sünder (también en la Colección Neumeister)
++ BWV 742: Ach Herr, mich armen Sünder
 + BWV 743: Ach, was ist doch unser Leben
-+ BWV 744: Auf meinen lieben Gott (no es de Bach, posiblemente de Johann Tobias Krebs)
-+ BWV 745: Aus der Tiefe rufe ich (no es de Bach, compuesto por Carl Philipp Emanuel Bach)
-+ BWV 746: Christ ist erstanden (no es de Bach, compuesto por Johann Caspar Ferdinand Fischer)
++ BWV 744: Auf meinen lieben Gott
++ BWV 745: Aus der Tiefe rufe ich
++ BWV 746: Christ ist erstanden
 + BWV 747: Christus, der uns selig macht
-+ BWV 748: Gott der Vater wohn' uns bei (no es de Bach, compuesto por Johann Gottfried Walther)
++ BWV 748: Gott der Vater wohn' uns bei
 + BWV 748a: Gott der Vater wohn' uns bei
 + BWV 749: Herr Jesu Christ, dich zu uns wend'
 + BWV 750: Herr Jesu Christ, mein's Lebens Licht
-+ BWV 751: In dulci jubilo (no es de Bach, compuesto por Johann Michael Bach)
++ BWV 751: In dulci jubilo
 + BWV 752: Jesu, der du meine Seele
 + BWV 753: Jesu, meine Freude
 + BWV 754: Liebster Jesu, wir sind hier
@@ -921,30 +921,30 @@
 + BWV 756: Nun ruhen alle Wälder
 + BWV 757: O Herre Gott, dein göttlich's Wort
 + BWV 758: O Vater, allmächtiger Gott
-+ BWV 759: Schmücke dich, o liebe Seele (no es de Bach, compuesto por Gottfried August Homilius)
-+ BWV 760: Vater unser im Himmelreich (no es de Bach, compuesto por Georg Böhm)
-+ BWV 761: Vater unser im Himmelreich (no es de Bach, compuesto por Georg Böhm)
++ BWV 759: Schmücke dich, o liebe Seele
++ BWV 760: Vater unser im Himmelreich
++ BWV 761: Vater unser im Himmelreich
 + BWV 762: Vater unser im Himmelreich
 + BWV 763: Wie schön leuchtet der Morgenstern
 + BWV 764: Wie schön leuchtet der Morgenstern
 
 *** Partitas y variaciones corales (765-771)
 
-+ BWV 765: Partita coral "Wir glauben all' an einen Gott" (apócrifo)
++ BWV 765: Partita coral "Wir glauben all' an einen Gott"
 + BWV 766: Partita coral "Christ, der du bist der helle Tag"
 + BWV 767: Partita coral "O Gott, du frommer Gott"
 + BWV 768: Partita coral "Sei gegrüsset, Jesu gütig"
 + BWV 769: Variaciones canónicas sobre "Vom Himmel hoch da komm' ich her"
-+ BWV 769a: Variaciones canónicas sobre "Vom Himmel hoch da komm' ich her" (versión alternativa de BWV 769)
-+ BWV 770: Variaciones corales "Ach, was soll ich Sünder machen" (apócrifo)
-+ BWV 771: Variaciones corales "Allein Gott in der Höh' sei Ehr'" (no es de Bach, posiblemente de Andreas Nicolaus Vetter)
++ BWV 769a: Variaciones canónicas sobre "Vom Himmel hoch da komm' ich her"
++ BWV 770: Variaciones corales "Ach, was soll ich Sünder machen"
++ BWV 771: Variaciones corales "Allein Gott in der Höh' sei Ehr'"
 
 ** Música para clavecín (772-994)
 
 *** Invenciones y sinfonías (772-801)
 
 + BWV 772: Invención n.º 1 en do mayor
-+ BWV 772a: Invención n.º 1 en do mayor (versión alternativa de BWV 772)
++ BWV 772a: Invención n.º 1 en do mayor
 + BWV 773: Invención n.º 2 en do menor
 + BWV 774: Invención n.º 3 en re mayor
 + BWV 775: Invención n.º 4 en re menor
@@ -995,19 +995,19 @@
 
 + BWV 812: Suite francesa n.º 1 en re menor
 + BWV 813: Suite francesa n.º 2 en do menor
-+ BWV 813a: Suite francesa n.º 2 en do menor (quinto movimiento modificado: Menuet)
++ BWV 813a: Suite francesa n.º 2 en do menor
 + BWV 814: Suite francesa n.º 3 en si menor
 + BWV 815: Suite francesa n.º 4 en mi bemol mayor
-+ BWV 815a: Suite francesa n.º 4 en mi bemol mayor (varios movimientos adicionales)
++ BWV 815a: Suite francesa n.º 4 en mi bemol mayor
 + BWV 816: Suite francesa n.º 5 en sol mayor
 + BWV 817: Suite francesa n.º 6 en mi mayor
 
 *** Otras suites (818-824)
 
 + BWV 818: Suite en la menor
-+ BWV 818a: Suite en la menor (versión alternativa de BWV 818)
++ BWV 818a: Suite en la menor
 + BWV 819: Suite en mi bemol mayor
-+ BWV 819a: Suite en mi bemol mayor (versión alternativa del primer movimiento de BWV 819)
++ BWV 819a: Suite en mi bemol mayor
 + BWV 820: Overture (Suite) en fa mayor
 + BWV 821: Suite en si bemol mayor
 + BWV 822: Suite en sol menor
@@ -1040,11 +1040,11 @@
 + BWV 838: Allemande and Courante en la mayor
 + BWV 839: Sarabande en sol menor
 + BWV 840: Courante en sol mayor
-+ BWV 841: Minuet en sol mayor (del Pequeño libro de Anna Magdalena Bach de 1722)
++ BWV 841: Minuet en sol mayor
 + BWV 842: Minuet en sol menor
 + BWV 843: Minuet en sol mayor
 + BWV 844: Scherzo en re menor
-+ BWV 844a: Scherzo en re menor (versión alternativa de BWV 844)
++ BWV 844a: Scherzo en re menor
 + BWV 845: Gigue en fa menor
 
 *** El clave bien temperado (846-893)
@@ -1052,17 +1052,17 @@
 **** Libro I
 
 + BWV 846: El clave bien temperado, libro 1: Preludio y fuga n.º 1 en do mayor
-+ BWV 846a: Preludio y fuga en do mayor (versión alternativa de BWV 846)
++ BWV 846a: Preludio y fuga en do mayor
 + BWV 847: El clave bien temperado, libro 1: Preludio y fuga n.º 2 en do menor
 + BWV 848: El clave bien temperado, libro 1: Preludio y fuga n.º 3 en do sostenido mayor
 + BWV 849: El clave bien temperado, libro 1: Preludio y fuga n.º 4 en do sostenido menor
 + BWV 850: El clave bien temperado, libro 1: Preludio y fuga n.º 5 en re mayor
 + BWV 851: El clave bien temperado, libro 1: Preludio y fuga n.º 6 en re menor
 + BWV 852: El clave bien temperado, libro 1: Preludio y fuga n.º 7 en mi bemol mayor
-+ BWV 853: El clave bien temperado, libro 1: Preludio y fuga n.º 8 en mi bemol menor (La fuga está en re sostenido menor, el tono enarmónico de mi bemol menor)
++ BWV 853: El clave bien temperado, libro 1: Preludio y fuga n.º 8 en mi bemol menor
 + BWV 854: El clave bien temperado, libro 1: Preludio y fuga n.º 9 en mi mayor
 + BWV 855: El clave bien temperado, libro 1: Preludio y fuga n.º 10 en mi menor
-+ BWV 855a: Preludio y fuga en mi menor (versión alternativa de BWV 855)
++ BWV 855a: Preludio y fuga en mi menor
 + BWV 856: El clave bien temperado, libro 1: Preludio y fuga n.º 11 en fa mayor
 + BWV 857: El clave bien temperado, libro 1: Preludio y fuga n.º 12 en fa menor
 + BWV 858: El clave bien temperado, libro 1: Preludio y fuga n.º 13 en fa sostenido mayor
@@ -1081,15 +1081,15 @@
 + BWV 868: El clave bien temperado, libro 1: Preludio y fuga n.º 23 en si mayor
 + BWV 869: El clave bien temperado, libro 1: Preludio y fuga n.º 24 en si menor
 + BWV 870: El clave bien temperado, libro 2: Preludio y fuga n.º 1 en do mayor
-+ BWV 870a: Preludio y fuga en do mayor (versión alternativa de BWV 870)
-+ BWV 870b: Preludio en do mayor (versión alternativa de BWV 870)
++ BWV 870a: Preludio y fuga en do mayor
++ BWV 870b: Preludio en do mayor
 + BWV 871: El clave bien temperado, libro 2: Preludio y fuga n.º 2 en do menor
 + BWV 872: El clave bien temperado, libro 2: Preludio y fuga n.º 3 en do sostenido mayor
-+ BWV 872a: Preludio y fuga en do sostenido mayor (versión alternativa de BWV 872)
++ BWV 872a: Preludio y fuga en do sostenido mayor
 + BWV 873: El clave bien temperado, libro 2: Preludio y fuga n.º 4 en do sostenido menor
 + BWV 874: El clave bien temperado, libro 2: Preludio y fuga n.º 5 en re mayor
 + BWV 875: El clave bien temperado, libro 2: Preludio y fuga n.º 6 en re menor
-+ BWV 875a: Preludio en re menor (versión alternativa de BWV 875)
++ BWV 875a: Preludio en re menor
 + BWV 876: El clave bien temperado, libro 2: Preludio y fuga n.º 7 en mi bemol mayor
 + BWV 877: El clave bien temperado, libro 2: Preludio y fuga n.º 8 en re sostenido menor
 + BWV 878: El clave bien temperado, libro 2: Preludio y fuga n.º 9 en mi mayor
@@ -1115,17 +1115,17 @@
 + BWV 895: Preludio y fuga en la menor
 + BWV 896: Preludio y fuga en la mayor
 + BWV 897: Preludio y fuga en la menor
-+ BWV 898: Preludio y fuga en si bemol mayor en el sujeto B-A-C-H (dudoso)
++ BWV 898: Preludio y fuga en si bemol mayor en el sujeto B-A-C-H
 + BWV 899: Preludio y fughetta en re menor
 + BWV 900: Preludio y fughetta en mi menor
 + BWV 901: Preludio y fughetta en fa mayor
 + BWV 902: Preludio y fughetta en sol mayor
-+ BWV 902a: Preludio en sol mayor (versión alternativa de BWV 902)
++ BWV 902a: Preludio en sol mayor
 + BWV 903: Fantasía cromática y fuga en re menor
-+ BWV 903a: Fantasía cromática en re menor (versión alternativa de BWV 903)
++ BWV 903a: Fantasía cromática en re menor
 + BWV 904: Fantasía y fuga en la menor
 + BWV 905: Fantasía y fuga en re menor
-+ BWV 906: Fantasía y fuga en do menor (fuga incompleta)
++ BWV 906: Fantasía y fuga en do menor
 + BWV 907: Fantasía y fughetta en si bemol mayor
 + BWV 908: Fantasía y fughetta en re mayor
 + BWV 909: Concierto y fuga en do menor
@@ -1142,12 +1142,12 @@
 + BWV 920: Fantasía en sol menor
 + BWV 921: Preludio en do menor
 + BWV 922: Preludio en la menor
-+ BWV 923: Preludio en si menor (apócrifo, posiblemente de Wilhelm Hieronymus Pachelbel)
++ BWV 923: Preludio en si menor
 
 *** Pequeños preludios del /Pequeño libro de Wilhelm Friedemann Bach/ (924-932)
 
 + BWV 924: Preludio en do mayor
-+ BWV 924a: Preludio en do mayor (versión alternativa de BWV 924)
++ BWV 924a: Preludio en do mayor
 + BWV 925: Preludio en re mayor
 + BWV 926: Preludio en re menor
 + BWV 927: Praeambulum en fa mayor
@@ -1184,27 +1184,27 @@
 + BWV 949: Fuga en la mayor
 + BWV 950: Fuga en la mayor sobre un tema de Tomaso Albinoni
 + BWV 951: Fuga en si menor sobre un tema de Tomaso Albinoni
-+ BWV 951a: Fuga en si menor (versión alternativa de BWV 951)
++ BWV 951a: Fuga en si menor
 + BWV 952: Fuga en do mayor
 + BWV 953: Fuga en do mayor
 + BWV 954: Fuga en si bemol mayor sobre un tema de Johann Adam Reincken
 + BWV 955: Fuga en si bemol mayor
 + BWV 956: Fuga en mi menor
-+ BWV 957: Machs mit mir, Gott, nach deiner Güt (Preludio coral para órgano en la Colección Neumeister, previamente incluida en la lista como Fuga en sol mayor)
++ BWV 957: Machs mit mir, Gott, nach deiner Güt
 + BWV 958: Fuga en la menor
 + BWV 959: Fuga en la menor
 + BWV 960: Fuga en mi menor
 + BWV 961: Fughetta en do menor
-+ BWV 962: Fughetta en mi menor (compuesto por Johann Georg Albrechtsberger)
++ BWV 962: Fughetta en mi menor
 
 *** Sonatas y movimientos de sonata (963-970)
 
 + BWV 963: Sonata en re mayor
-+ BWV 964: Sonata en re menor (arreglo de BWV 1003)
-+ BWV 965: Sonata en la menor (basado en Hortus Musicus n.º 1–5 de Johann Adam Reincken)
-+ BWV 966: Sonata en do mayor (basado en Hortus Musicus n.º 11–15 de Johann Adam Reincken)
-+ BWV 967: Sonata en la menor (solo un movimiento, arreglo de una sonata de cámara de un compositor desconocido)
-+ BWV 968: Adagio en sol mayor (basado en el primer movimiento de la Sonata n.º 3 para violín solo, BWV 1005)
++ BWV 964: Sonata en re menor
++ BWV 965: Sonata en la menor
++ BWV 966: Sonata en do mayor
++ BWV 967: Sonata en la menor
++ BWV 968: Adagio en sol mayor
 + BWV 969: Andante en sol menor
 + BWV 970: Presto en re menor
 
@@ -1214,43 +1214,43 @@
 
 *** Arreglos para teclado de conciertos de otros compositores (972-987)
 
-+ BWV 972: Concerto en re mayor (arreglo del Concerto Op. 3/9 RV230 de Antonio Vivaldi)
-+ BWV 973: Concerto en sol mayor (arreglo del Concerto Op. 7/2 RV188 de Antonio Vivaldi)
-+ BWV 974: Concerto en re menor (arreglo del Concierto para oboe en re menor de Alessandro Marcello)
-+ BWV 975: Concerto en sol menor (arreglo del Concerto Op. 4/6 RV316a de Antonio Vivaldi)
-+ BWV 976: Concerto en do mayor (arreglo del Concerto Op. 3/12 RV265 de Antonio Vivaldi)
-+ BWV 977: Concerto en do mayor (fuente desconocida, posiblemente un concierto de Benedetto Marcello)
-+ BWV 978: Concerto en fa mayor (arreglo del Concerto Op. 3/3 RV310 de Antonio Vivaldi)
-+ BWV 979: Concerto en si menor (recientemente identificado como el Concerto RV Anh. 10 de Antonio Vivaldi)
-+ BWV 980: Concerto en sol mayor (arreglo del Concerto Op. 4/1 RV383a de Antonio Vivaldi)
-+ BWV 981: Concerto en do menor (posiblemente un arreglo del Concerto Op. 1/2 de Benedetto Marcello)
-+ BWV 982: Concerto en si bemol mayor (arreglo del Concerto Op. 1/1 de Prince Johann Ernst)
-+ BWV 983: Concerto en sol menor (fuente desconocida)
-+ BWV 984: Concerto en do mayor (arreglo de un concierto de Prince Johann Ernst; ver BWV 595 para la versión para órgano)
-+ BWV 985: Concerto en sol menor (arreglo de un concierto para violín de Georg Philipp Telemann)
-+ BWV 986: Concerto en sol mayor (arreglo de un concierto atribuido a Georg Philipp Telemann)
-+ BWV 987: Concerto en re menor (arreglo del Concierto Op. 1/4 de Prince Johann Ernst)
++ BWV 972: Concerto en re mayor
++ BWV 973: Concerto en sol mayor
++ BWV 974: Concerto en re menor
++ BWV 975: Concerto en sol menor
++ BWV 976: Concerto en do mayor
++ BWV 977: Concerto en do mayor
++ BWV 978: Concerto en fa mayor
++ BWV 979: Concerto en si menor
++ BWV 980: Concerto en sol mayor
++ BWV 981: Concerto en do menor
++ BWV 982: Concerto en si bemol mayor
++ BWV 983: Concerto en sol menor
++ BWV 984: Concerto en do mayor
++ BWV 985: Concerto en sol menor
++ BWV 986: Concerto en sol mayor
++ BWV 987: Concerto en re menor
 
 *** Variaciones y otras piezas para teclado (988-994)
 
 + BWV 988: Variaciones Goldberg (del Clavier-Übung IV)
 + BWV 989: Aria variata alla maniera italiana, en la menor
-+ BWV 990: Sarabande con partite en do mayor (ligeramente adaptado de la obertura para "Bellérophon", 1679 de Jean-Baptiste Lully)
-+ BWV 991: Air con variaciones en do menor (incompleto, del Pequeño libro de Anna Magdalena Bach de 1722)
-+ BWV 992': Capriccio sopra la lontananza del suo fratello dilettissimo (Capricho sobre la partida del hermano amado), en si bemol mayor
++ BWV 990: Sarabande con partite en do mayor
++ BWV 991: Air con variaciones en do menor
++ BWV 992': Capricho sobre la partida del hermano amado, en si bemol mayor
 + BWV 993: Capriccio en mi mayor
-+ BWV 994: Applicatio en do mayor (del Pequeño libro de Wilhelm Friedemann Bach)
++ BWV 994: Applicatio en do mayor
 
 ** Música de cámara (995-1040)
 
 *** [[https://es.wikipedia.org/wiki/Composiciones_para_laúd_(Bach)][Obras para laúd solo]] (995-1000)
 
-+ BWV 995: Suite en sol menor (transcripción de BWV 1011)
-+ BWV 996: Suite en mi menor (más probablemente pensada para laúd-clave)
++ BWV 995: Suite en sol menor
++ BWV 996: Suite en mi menor
 + BWV 997: Suite en do menor
 + BWV 998: Preludio, fuga y allegro en mi bemol mayor
 + BWV 999: Preludio en do menor
-+ BWV 1000: Fuga en sol menor (transcripción de la fuga de BWV 1001)
++ BWV 1000: Fuga en sol menor
 
 *** [[https://es.wikipedia.org/wiki/Sonatas_y_partitas_para_violín_solo,_BWV_1001-1006][Sonatas y partitas para violín solo]] (1001-1006)
 
@@ -1263,7 +1263,7 @@
 
 *** Suite para laúd solo (1006a)
 
-+ BWV 1006a: Suite en mi mayor (transcripción de BWV 1006)
++ BWV 1006a: Suite en mi mayor
 
 *** [[https://es.wikipedia.org/wiki/Suites_para_violonchelo_solo_(Bach)][Suites para violonchelo solo]] (1007-1012)
 
@@ -1285,39 +1285,39 @@
 + BWV 1016: Sonata en mi mayor para violín y clavecín
 + BWV 1017: Sonata en do menor para violín y clavecín
 + BWV 1018: Sonata en fa menor para violín y clavecín
-+ BWV 1018a: Adagio en fa menor para violín y clavecín (versión previa del tercer movimiento de BWV 1018)
++ BWV 1018a: Adagio en fa menor para violín y clavecín
 + BWV 1019: Sonata en sol mayor para violín y clavecín
-+ BWV 1019a: Sonata en sol mayor para violín y clavecín (versión previa de BWV 1019)
-+ BWV 1020: Sonata en sol menor para violín (o flauta/flauta dulce) y clavecín (ahora atribuida a C. P. E. Bach: H 542.5)
++ BWV 1019a: Sonata en sol mayor para violín y clavecín
++ BWV 1020: Sonata en sol menor para violín y clavecín
 + BWV 1021: Sonata en sol mayor para violín y bajo continuo
-+ BWV 1022: Sonata en fa mayor para violín y clavecín (dudosa, posiblemente de C. P. E. Bach)
++ BWV 1022: Sonata en fa mayor para violín y clavecín
 + BWV 1023: Sonata en mi menor para violín y bajo continuo
-+ BWV 1024: Sonata en do menor para violín y bajo continuo (dudosa)
-+ BWV 1025: Suite en la mayor para violín y clavecín (basada en una sonata de Sylvius Leopold Weiss; dudosa, posiblemente de C. P. E. Bach)
-+ BWV 1026: Fuga en sol menor para violín y bajo continuo (dudosa)
++ BWV 1024: Sonata en do menor para violín y bajo continuo
++ BWV 1025: Suite en la mayor para violín y clavecín
++ BWV 1026: Fuga en sol menor para violín y bajo continuo
 
 *** Sonatas para viola de gamba e instrumento de teclado (1027-1029)
 
-+ BWV 1027: Sonata n.º 1 en sol mayor para viola de gamba y clavecín (arreglo de BWV 1039)
-+ BWV 1027a: Trío en sol mayor para órgano (arreglo del cuarto movimiento de BWV 1027)
++ BWV 1027: Sonata n.º 1 en sol mayor para viola de gamba y clavecín
++ BWV 1027a: Trío en sol mayor para órgano
 + BWV 1028: Sonata n.º 2 en re mayor para viola de gamba y clavecín
 + BWV 1029: Sonata n.º 3 en sol menor para viola de gamba y clavecín
 
 *** Sonatas para flauta e instrumento de teclado/bajo continuo (1030-1035)
 
 + BWV 1030: Sonata en si menor para flauta y clavecín
-+ BWV 1030a: Sonata en sol menor para clavecín e instrumento desconocido (hipótesis: oboe o viola da gamba) (versión previa de BWV 1030 de la que solo se conservan las partes de clavecín)
-+ BWV 1031: Sonata en mi bemol mayor para flauta y clavecín (dudosa, posiblemente de C. P. E. Bach como H 545)
++ BWV 1030a: Sonata en sol menor para clavecín e instrumento desconocido
++ BWV 1031: Sonata en mi bemol mayor para flauta y clavecín
 + BWV 1032: Sonata en la mayor para flauta y clavecín
-+ BWV 1033: Sonata en do mayor para flauta y bajo continuo (dudosa, posiblemente de C. P. E. Bach)
++ BWV 1033: Sonata en do mayor para flauta y bajo continuo
 + BWV 1034: Sonata en mi menor para flauta y bajo continuo
 + BWV 1035: Sonata en mi mayor para flauta y bajo continuo
 
 *** Sonatas a trío (1036-1040)
 
-+ BWV 1036: Sonata en re menor para dos violines y bajo continuo (ahora atribuida a C. P. E. Bach)
-+ BWV 1037: Sonata en do mayor para dos violines y bajo continuo (ahora atribuida a Johann Gottlieb Goldberg)
-+ BWV 1038: Sonata en sol mayor para flauta, violín y bajo continuo (dudosa, posiblemente de C. P. E. Bach)
++ BWV 1036: Sonata en re menor para dos violines y bajo continuo
++ BWV 1037: Sonata en do mayor para dos violines y bajo continuo
++ BWV 1038: Sonata en sol mayor para flauta, violín y bajo continuo
 + BWV 1039: Sonata en sol mayor para dos flautas y bajo continuo
 + BWV 1040: Sonata canónica en fa mayor para oboe, violín y bajo continuo
 
@@ -1332,36 +1332,36 @@
 + BWV 1045: Movimiento de concierto para violín en re mayor
 + [[https://youtu.be/osg_WmeLxQk][BWV 1052: Concierto para violín en re menor]].
 + [[https://youtu.be/QzOYMTT_xx8][BWV 1056: Concierto para violín en sol menor]].
-+ BWV 1060: Concierto para 2 violines, o violín y oboe y cuerdas en do menor (BWV 1060 es el Concierto para 2 clavecines en do menor; ha sido reconstruido para 2 violines o violín y oboe como posibles instrumentos originales, algunas ediciones para violín-oboe han sido transpuestas para re menor)
++ BWV 1060: Concierto para 2 violines, o violín y oboe y cuerdas en do menor
 + [[https://youtu.be/vRfcGmVH5dI][BWV 1064: Concierto para 3 violines y cuerdas en re mayor]].
 
 *** Conciertos de Brandeburgo (1046-1051)
 
 + BWV 1046: Concierto de Brandeburgo n.º 1 en fa mayor para violín piccolo, 3 oboes, fagot, 2 corni da caccia, cuerdas y continuo
-+ BWV 1046a: Sinfonía en fa mayor (versión previa de BWV 1046)
++ BWV 1046a: Sinfonía en fa mayor
 + BWV 1047: Concierto de Brandeburgo n.º 2 en fa mayor para trompeta, oboe, flauta dulce, violín, cuerdas y continuo
 + BWV 1048: Concierto de Brandeburgo n.º 3 en sol mayor para 3 violines, 3 violas, 3 violonchelos y continuo
 + BWV 1049: Concierto de Brandeburgo n.º 4 en sol mayor para violín, 2 fiauti d'echo (flautas dulces), cuerdas y continuo
 + BWV 1050: Concierto de Brandeburgo n.º 5 en re mayor para clavecín, violín, flauta y cuerdas
-+ BWV 1050a: Concierto en re mayor para clavecín, violín, flauta y cuerdas (versión previa de BWV 1050)
++ BWV 1050a: Concierto en re mayor para clavecín, violín, flauta y cuerdas
 + BWV 1051: Concierto de Brandeburgo n.º 6 en si bemol mayor para 2 violas, 2 violas de gamba, violonchelo y continuo
 
 *** Conciertos para clavecín (1052-1065)
 
-+ BWV 1052: Concierto para clavecín y cuerdas en re menor (basado en un concierto para violín perdido)
-+ BWV 1053: Concierto para clavecín y cuerdas en mi mayor (probablemente basado en un Concierto para oboe perdido, también interpretado como Concierto en fa mayor para oboe, cuerdas y continuo)
-+ BWV 1054: Concierto para clavecín y cuerdas en re mayor (basado en el Concierto para violín en mi mayor, BWV 1042)
-+ BWV 1055: Concierto para clavecín y cuerdas en la mayor (basado en un Concierto para oboe d'amore perdido)
-+ BWV 1056: Concierto para clavecín y cuerdas en fa menor (probablemente basado en un Concierto para violín perdido, a veces grabado como Concierto para violín en sol menor)
-+ BWV 1057: Concierto para clavecín, 2 flautas dulces y cuerdas en fa mayor (basado en el Concierto de Brandeburgo n.º 4 en sol mayor, BWV 1049)
-+ BWV 1058: Concierto para clavecín y cuerdas en sol menor (basado en el Concierto para violín en la menor, BWV 1041)
-+ BWV 1059: (Fragmento incompleto de unos diez compases. Se han hecho "reconstrucciones" de los conciertos para clavecín, órgano y oboe basadas en este usando movimientos de cantata, pero estas son casi completamente especulativas.)
-+ BWV 1060: Concierto para 2 clavecines y cuerdas en do menor (basado en un concierto para violín y oboe perdido)
-+ BWV 1061: Concierto para 2 clavecines y cuerdas en do mayor (versión original para 2 clavecines solos conocido como BWV 1061a)
-+ BWV 1062: Concierto para 2 clavecines y cuerdas en do menor (basado en el Concierto doble para violín en re menor, BWV 1043)
++ BWV 1052: Concierto para clavecín y cuerdas en re menor
++ BWV 1053: Concierto para clavecín y cuerdas en mi mayor
++ BWV 1054: Concierto para clavecín y cuerdas en re mayor
++ BWV 1055: Concierto para clavecín y cuerdas en la mayor
++ BWV 1056: Concierto para clavecín y cuerdas en fa menor
++ BWV 1057: Concierto para clavecín, 2 flautas dulces y cuerdas en fa mayor
++ BWV 1058: Concierto para clavecín y cuerdas en sol menor
++ BWV 1059: Conciertos para clavecín, órgano y oboe.
++ BWV 1060: Concierto para 2 clavecines y cuerdas en do menor
++ BWV 1061: Concierto para 2 clavecines y cuerdas en do mayor
++ BWV 1062: Concierto para 2 clavecines y cuerdas en do menor
 + BWV 1063: Concierto para 3 clavecines y cuerdas en re minor
-+ BWV 1064: Concierto para 3 clavecines y cuerdas en do mayor (basado en un concierto para 3 violines perdido)
-+ BWV 1065: Concierto para 4 clavecines y cuerdas en la menor (basado en el Concerto para 4 violines en si menor, Op. 3/10, RV 580 de Antonio Vivaldi)
++ BWV 1064: Concierto para 3 clavecines y cuerdas en do mayor
++ BWV 1065: Concierto para 4 clavecines y cuerdas en la menor
 
 *** Suites para orquesta (1066-1071)
 
@@ -1369,8 +1369,8 @@
 + BWV 1067: Suite para orquesta n.º 2 en si menor (para flauta, cuerdas y continuo)
 + BWV 1068: Suite para orquesta n.º 3 en re mayor (para oboes, trompetas, timbales, cuerdas y continuo)
 + BWV 1069: Suite para orquesta n.º 4 en re mayor (para oboes, fagot, trompetas, timbales, cuerdas y continuo)
-+ BWV 1070: Suite para orquesta en sol menor (apócrifo: W. F. Bach)
-+ BWV 1071: Sinfonía en fa mayor (originalmente agrupada con las suites para orquesta, ahora conocida como BWV 1046a)
++ BWV 1070: Suite para orquesta en sol menor
++ BWV 1071: Sinfonía en fa mayor
 
 * Música canónica y especulativa (1072-1080)
 
@@ -1395,11 +1395,11 @@
 
 + BWV 1081: Credo in unum Deum en F-dur (para coro)
 + BWV 1082: Suscepit Israel puerum suum (para coro)
-+ BWV 1083: Tilge, Höchster, meine Sünden (Motete, "parodia", i.e., versión retrabajada, del Stabat Mater de Pergolesi)
++ BWV 1083: Motete, "parodia", del Stabat Mater de Pergolesi
 + BWV 1084: O hilf, Christe, Gottes Sohn (coral)
 + BWV 1085: O Lamm Gottes, unschuldig (preludio coral)
 + BWV 1086: Canon concordia discors (órgano)
-+ BWV 1087: 14 canones basadas en las ocho primeras notas del bajo del aria de las Variaciones Goldberg. (descubierta en 1974)
++ BWV 1087: 14 canones basadas en las ocho primeras notas del bajo del aria de las Variaciones Goldberg.
 + BWV 1088: So heb ich denn mein Auge sehnlich auf (aria para bajo)
 + BWV 1089: Da Jesus an dem Kreutze stund (coral)
 
@@ -1411,7 +1411,7 @@
 + BWV 1093: Herzliebster Jesu, was hast du verbrochen
 + BWV 1094: O Jesu, wie ist dein Gestalt
 + BWV 1095: O Lamm Gottes unschuldig
-+ BWV 1096: Christe, der du bist Tag und Licht (también conocido como Wir danken dir, Herr Jesu Christ; dudoso, posiblemente de Johann Pachelbel)
++ BWV 1096: Christe, der du bist Tag und Licht
 + BWV 1097: Ehre sei dir, Christe, der du leidest Not
 + BWV 1098: Wir glauben all an einen Gott
 + BWV 1099: Aus tiefer Not schrei ich zu dir
@@ -1439,7 +1439,7 @@
 
 ** Miscelánea (1121-1126)
 
-+ BWV 1121: Fantasía en Do menor(órgano)
++ BWV 1121: Fantasía en Do menor (órgano)
 + BWV 1122: Denket doch, Ihr Menschenkinder (coral)
 + BWV 1123: Wo Gott zum Haus nicht gibt sein Gut (coral)
 + BWV 1124: Ich ruf zu Dir, Herr Jesu Christ (coral)
@@ -1448,132 +1448,132 @@
 
 ** Aria estrófica (1127)
 
-+ BWV 1127: Alles mit Gott und nichts ohn' ihn (descubierta en junio de 2005)
++ BWV 1127: Alles mit Gott und nichts ohn' ihn
 
 ** Fantasía coral para órgano (1128)
 
-+ BWV 1128: Wo Gott der Herr nicht bei uns hält (descubierta en marzo de 2008).
++ BWV 1128: Wo Gott der Herr nicht bei uns hält
 
 * Apéndice: BWV Anh. 42 - BWV Anh. 189
 
 ** Obras varias
 
-+ BWV Anh. 42: Fuga en fa mayor (obras para órgano)
-+ BWV Anh. 43: Fuga (obras para órgano)
-+ BWV Anh. 44: Fuga en sol mayor (obras para órgano)
-+ BWV Anh. 45: Fuga en si bemol mayor sobre B-A-C-H (obras para órgano)
-+ BWV Anh. 46: Trío en do menor (obras para órgano)
-+ BWV Anh. 47: Ach Herr, mich armen Sünder (obras dudosas)
-+ BWV Anh. 48: Allein Gott in der Höh sei Ehr (obras dudosas)
-+ BWV Anh. 49: Ein feste Burg ist unser Gott (obras dudosas)
-+ BWV Anh. 50: Erhalt uns, Herr, bei deinem Wort (obras dudosas)
-+ BWV Anh. 51: Erstanden ist der heilige Christ (obras dudosas)
-+ BWV Anh. 52: Freu dich sehr, o meine Seele (obras dudosas)
-+ BWV Anh. 53: Freu dich sehr, o meine Seele (obras dudosas)
-+ BWV Anh. 54: Helft mir Gottes Güte preisen (obras dudosas)
-+ BWV Anh. 55: Herr Christ, der einig Gott's Sohn (obras dudosas)
-+ BWV Anh. 56: Herr Jesu Christ, dich zu uns wend' (obras dudosas)
-+ BWV Anh. 57: Jesu Leiden, Pein und Tod (de Johann Caspar Vogler)
-+ BWV Anh. 58: Jesu, meine Freude (obras dudosas)
-+ BWV Anh. 59: Jesu, meine Freude (obras dudosas)
-+ BWV Anh. 60: Nun lob, mein Seel, den Herren (obras dudosas)
-+ BWV Anh. 61: O Mensch, bewein dein Sünde groß (obras dudosas)
-+ BWV Anh. 62a: Sei Lob und Ehr mit hohem Preis (obras dudosas)
-+ BWV Anh. 62b: Sei Lob und Ehr mit hohem Preis (obras dudosas)
-+ BWV Anh. 63: Von Himmel hoch, da komm ich her (obras dudosas)
-+ BWV Anh. 64: Von Himmel hoch, da komm ich her (obras dudosas)
-+ BWV Anh. 65: Von Himmel hoch, da komm ich her (obras dudosas)
-+ BWV Anh. 66: Wachet auf, ruft uns die Stimme (obras dudosas)
-+ BWV Anh. 67: Was Gott tut, das ist wohlgetan (obras dudosas)
-+ BWV Anh. 68: Wer nur den lieben Gott läßt walten (obras dudosas)
-+ BWV Anh. 69: Wir glauben all an einen Gott (obras dudosas)
-+ BWV Anh. 70: Wir glauben all an einen Gott (obras dudosas)
-+ BWV Anh. 71: Wo Gott, der Herr, nicht bei uns hält (obras dudosas)
++ BWV Anh. 42: Fuga en fa mayor
++ BWV Anh. 43: Fuga
++ BWV Anh. 44: Fuga en sol mayor
++ BWV Anh. 45: Fuga en si bemol mayor sobre B-A-C-H
++ BWV Anh. 46: Trío en do menor
++ BWV Anh. 47: Ach Herr, mich armen Sünder
++ BWV Anh. 48: Allein Gott in der Höh sei Ehr
++ BWV Anh. 49: Ein feste Burg ist unser Gott
++ BWV Anh. 50: Erhalt uns, Herr, bei deinem Wort
++ BWV Anh. 51: Erstanden ist der heilige Christ
++ BWV Anh. 52: Freu dich sehr, o meine Seele
++ BWV Anh. 53: Freu dich sehr, o meine Seele
++ BWV Anh. 54: Helft mir Gottes Güte preisen
++ BWV Anh. 55: Herr Christ, der einig Gott's Sohn
++ BWV Anh. 56: Herr Jesu Christ, dich zu uns wend'
++ BWV Anh. 57: Jesu Leiden, Pein und Tod
++ BWV Anh. 58: Jesu, meine Freude
++ BWV Anh. 59: Jesu, meine Freude
++ BWV Anh. 60: Nun lob, mein Seel, den Herren
++ BWV Anh. 61: O Mensch, bewein dein Sünde groß
++ BWV Anh. 62a: Sei Lob und Ehr mit hohem Preis
++ BWV Anh. 62b: Sei Lob und Ehr mit hohem Preis
++ BWV Anh. 63: Von Himmel hoch, da komm ich her
++ BWV Anh. 64: Von Himmel hoch, da komm ich her
++ BWV Anh. 65: Von Himmel hoch, da komm ich her
++ BWV Anh. 66: Wachet auf, ruft uns die Stimme
++ BWV Anh. 67: Was Gott tut, das ist wohlgetan
++ BWV Anh. 68: Wer nur den lieben Gott läßt walten
++ BWV Anh. 69: Wir glauben all an einen Gott
++ BWV Anh. 70: Wir glauben all an einen Gott
++ BWV Anh. 71: Wo Gott, der Herr, nicht bei uns hält
 + BWV Anh. 72: Canon (obras dudosas)
-+ BWV Anh. 73: Ich Ruf du dir, Herr Jesu Christ (arreglo de BWV 639, posiblemente de C. P. E. Bach)
-+ BWV Anh. 74: Schmücke dich, o liebe Seele (de Homilius?)
-+ BWV Anh. 75: Herr Christ, der einig Gott's Sohn (obras dudosas)
-+ BWV Anh. 76: Jesu Meine Freude (obras dudosas)
-+ BWV Anh. 77: Herr Christ, der einig Gott's Sohn (obras dudosas)
-+ BWV Anh. 78: Wenn wir in höchsten Nöten sein (obras dudosas)
-+ BWV Anh. 79: Befiehl du deine Wege (obras dudosas)
-+ BWV Anh. 107: Fuga (obras dudosas)
-+ BWV Anh. 108: Fuga (obras dudosas)
-+ BWV Anh. 109: Fuga (obras dudosas)
-+ BWV Anh. 110: Fuga (obras dudosas)
-+ BWV Anh. 111: Largo & Allegro (obras dudosas)
-+ BWV Anh. 112: Grave (obras dudosas)
++ BWV Anh. 73: Ich Ruf du dir, Herr Jesu Christ
++ BWV Anh. 74: Schmücke dich, o liebe Seele
++ BWV Anh. 75: Herr Christ, der einig Gott's Sohn
++ BWV Anh. 76: Jesu Meine Freude
++ BWV Anh. 77: Herr Christ, der einig Gott's Sohn
++ BWV Anh. 78: Wenn wir in höchsten Nöten sein
++ BWV Anh. 79: Befiehl du deine Wege
++ BWV Anh. 107: Fuga
++ BWV Anh. 108: Fuga
++ BWV Anh. 109: Fuga
++ BWV Anh. 110: Fuga
++ BWV Anh. 111: Largo & Allegro
++ BWV Anh. 112: Grave
 
 ** Cuadernos de Anna Magdalena
 
-+ BWV Anh. 113: Minueto (obras dudosas)
-+ BWV Anh. 114: Minueto (atribuido a Christian Petzold)
-+ BWV Anh. 115: Minueto (atribuido a Christian Petzold)
-+ BWV Anh. 116: Minueto (obras dudosas)
-+ BWV Anh. 117a: Minueto (obras dudosas)
-+ BWV Anh. 117b: Minueto (obras dudosas)
-+ BWV Anh. 118: Minueto (obras dudosas)
-+ BWV Anh. 119: Polonaise (obras dudosas)
-+ BWV Anh. 120: Minueto (obras dudosas)
-+ BWV Anh. 121: Minueto (obras dudosas)
-+ BWV Anh. 122: Marcha (C. P. E. Bach)
-+ BWV Anh. 123: Polonaise (C. P. E. Bach)
-+ BWV Anh. 124: Marcha (C. P. E. Bach)
-+ BWV Anh. 125: Polonaise (C. P. E. Bach)
-+ BWV Anh. 126: Musette (obras dudosas)
-+ BWV Anh. 127: Marcha (obras dudosas)
-+ BWV Anh. 128: Polonaise (obras dudosas)
-+ BWV Anh. 129: Solo (C. P. E. Bach)
-+ BWV Anh. 130: Polonaise (Johann Adolph Hasse)
-+ BWV Anh. 131: Movimiento (obras dudosas)
-+ BWV Anh. 132: Minueto (obras dudosas)
++ BWV Anh. 113: Minueto
++ BWV Anh. 114: Minueto
++ BWV Anh. 115: Minueto
++ BWV Anh. 116: Minueto
++ BWV Anh. 117a: Minueto
++ BWV Anh. 117b: Minueto
++ BWV Anh. 118: Minueto
++ BWV Anh. 119: Polonaise
++ BWV Anh. 120: Minueto
++ BWV Anh. 121: Minueto
++ BWV Anh. 122: Marcha
++ BWV Anh. 123: Polonaise
++ BWV Anh. 124: Marcha
++ BWV Anh. 125: Polonaise
++ BWV Anh. 126: Musette
++ BWV Anh. 127: Marcha
++ BWV Anh. 128: Polonaise
++ BWV Anh. 129: Solo
++ BWV Anh. 130: Polonaise
++ BWV Anh. 131: Movimiento
++ BWV Anh. 132: Minueto
 
 ** Más obras apócrifas
 
-+ BWV Anh. 133: Fantasía (obras dudosas)
-+ BWV Anh. 134: Scherzo (obras dudosas)
-+ BWV Anh. 135: Buslesca (obras dudosas)
-+ BWV Anh. 136: Trío (obras dudosas)
-+ BWV Anh. 137: L'Intrada della Caccia (obras dudosas)
-+ BWV Anh. 138: Continuazione della Caccia (obras dudosas)
-+ BWV Anh. 139: Il Fine delle Caccia: I (obras dudosas)
-+ BWV Anh. 140: Il Fine delle Caccia: II (obras dudosas)
-+ BWV Anh. 141: Canción del salmo: O Gott die Christenhalt (obras dudosas)
-+ BWV Anh. 142: Salmo 110 (obras dudosas)
-+ BWV Anh. 143: Polonaise (obras dudosas)
-+ BWV Anh. 144: Polonaise trío (obras dudosas)
-+ BWV Anh. 145: Marcha (obras dudosas)
-+ BWV Anh. 146: Marcha (obras dudosas)
-+ BWV Anh. 147: La Combattuta (obras dudosas)
-+ BWV Anh. 148: Scherzo (obras dudosas)
-+ BWV Anh. 149: Minueto (obras dudosas)
-+ BWV Anh. 150: Trío (obras dudosas)
-+ BWV Anh. 151: Concierto (obras dudosas)
-+ BWV Anh. 152: Concierto (obras dudosas)
-+ BWV Anh. 153: Sonata (obras dudosas)
++ BWV Anh. 133: Fantasía
++ BWV Anh. 134: Scherzo
++ BWV Anh. 135: Buslesca
++ BWV Anh. 136: Trío
++ BWV Anh. 137: L'Intrada della Caccia
++ BWV Anh. 138: Continuazione della Caccia
++ BWV Anh. 139: Il Fine delle Caccia: I
++ BWV Anh. 140: Il Fine delle Caccia: II
++ BWV Anh. 141: Canción del salmo: O Gott die Christenhalt
++ BWV Anh. 142: Salmo 110
++ BWV Anh. 143: Polonaise
++ BWV Anh. 144: Polonaise trío
++ BWV Anh. 145: Marcha
++ BWV Anh. 146: Marcha
++ BWV Anh. 147: La Combattuta
++ BWV Anh. 148: Scherzo
++ BWV Anh. 149: Minueto
++ BWV Anh. 150: Trío
++ BWV Anh. 151: Concierto
++ BWV Anh. 152: Concierto
++ BWV Anh. 153: Sonata
 
 ** Obras falsamente atribuidas
 
-+ BWV Anh. 158: Aria: Andro dall' colle al prato (obras falsamente atribuidas)
-+ BWV Anh. 159: Motete: Ich lasse dich nicht, du segnest mich denn (probablemente de J. S. Bach, salvo el coral final, previamente atribuido a J. C. Bach)
-+ BWV Anh. 160: Motete: Jauchzet dem Herrn, alle Welt (montaje de movimientos de Bach y Telemann)
-+ BWV Anh. 161: Motete: Kundlich gross ist das gottselige Geheimnis (obras falsamente atribuidas)
-+ BWV Anh. 162: Motete: Lob und Ehre und Weishelt und Dank (obras falsamente atribuidas)
-+ BWV Anh. 163: Motete: Merk aud, mein Herz, und sieh dorthin (obras falsamente atribuidas)
-+ BWV Anh. 164: Motete: Nun danket alle Gott (obras falsamente atribuidas)
-+ BWV Anh. 165: Motete: Unser Wandel ist im Himmel (obras falsamente atribuidas)
-+ BWV Anh. 177: Preludio y fuga (obras falsamente atribuidas; compuesto por Johann Christoph Bach)
-+ BWV Anh. 178: Tocata casi fantasía con fuga (obras falsamente atribuidas)
-+ BWV Anh. 179: Fantasía (obras falsamente atribuidas)
-+ BWV Anh. 180: Fuga (obras falsamente atribuidas)
-+ BWV Anh. 181: Fuga (obras falsamente atribuidas)
-+ BWV Anh. 182: Passacaglia (compuesto por Christian Friedrich Witt)
-+ BWV Anh. 183: Rondeau Les Bergeries (compuesto por François Couperin, recogido en el Pequeño libro de Anna Magdalena Bach)
-+ BWV Anh. 184: Sonata (obras falsamente atribuidas)
-+ BWV Anh. 185: Sonata (obras falsamente atribuidas)
-+ BWV Anh. 186: Sonata (obras falsamente atribuidas)
-+ BWV Anh. 187: Trío (obras falsamente atribuidas)
-+ BWV Anh. 188: Sonata (concierto) para 2 pianos (obras falsamente atribuidas)
-+ BWV Anh. 189: Concierto en la menor (obras falsamente atribuidas)
++ BWV Anh. 158: Aria: Andro dall' colle al prato
++ BWV Anh. 159: Motete: Ich lasse dich nicht, du segnest mich denn
++ BWV Anh. 160: Motete: Jauchzet dem Herrn, alle Welt
++ BWV Anh. 161: Motete: Kundlich gross ist das gottselige Geheimnis
++ BWV Anh. 162: Motete: Lob und Ehre und Weishelt und Dank
++ BWV Anh. 163: Motete: Merk aud, mein Herz, und sieh dorthin
++ BWV Anh. 164: Motete: Nun danket alle Gott
++ BWV Anh. 165: Motete: Unser Wandel ist im Himmel
++ BWV Anh. 177: Preludio y fuga
++ BWV Anh. 178: Tocata casi fantasía con fuga
++ BWV Anh. 179: Fantasía
++ BWV Anh. 180: Fuga
++ BWV Anh. 181: Fuga
++ BWV Anh. 182: Passacaglia
++ BWV Anh. 183: Rondeau Les Bergeries
++ BWV Anh. 184: Sonata
++ BWV Anh. 185: Sonata
++ BWV Anh. 186: Sonata
++ BWV Anh. 187: Trío
++ BWV Anh. 188: Sonata (concierto) para 2 pianos
++ BWV Anh. 189: Concierto en la menor
 + BWV Anh. 200: O Traurigkeit, o herzeleid (fragmento del Orgelbüchlein)
-+ BWV Anh. 205: Fantasía en do menor (actualmente BWV 1121)
++ BWV Anh. 205: Fantasía en do menor

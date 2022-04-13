@@ -7,6 +7,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 1048: Concierto de Brandeburgo n.º 3 en sol mayor.
 + BWV 1049: Concierto de Brandeburgo n.º 4 en sol mayor.
 + BWV 1050: Concierto de Brandeburgo n.º 5 en re mayor.
++ BWV 1051: Concierto de Brandeburgo n.º 6 en si bemol.
 + BWV 1052: Concierto para violín en re menor.
 + BWV 1056: Concierto para violín en sol menor.
 + BWV 1064: Concierto para 3 violines y cuerdas en re mayor.

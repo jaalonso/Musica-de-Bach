@@ -293,7 +293,7 @@
 + BWV 246: Pasión según San Lucas
 + BWV 247: Pasión según San Marcos
 + BWV 248: Oratorio de Navidad
-+ BWV 249: Oratorio de Pascua
++ [[https://youtu.be/JBUb77bHCcw][BWV 249: Oratorio de Pascua]].
 + BWV 11: Oratorio de la Ascensión
 
 ** Corales (250-438)

@@ -1262,7 +1262,7 @@
 
 + BWV 1066: Suite para orquesta n.º 1 en do mayor (para viento madera, cuerdas y continuo)
 + [[https://youtu.be/x8Rv9ppP6A8][BWV 1067: Suite para orquesta n.º 2 en si menor]].
-+ BWV 1068: Suite para orquesta n.º 3 en re mayor (para oboes, trompetas, timbales, cuerdas y continuo)
++ [[https://youtu.be/tj7MOWPjVeo][BWV 1068: Suite para orquesta n.º 3 en re mayor]].
 + BWV 1069: Suite para orquesta n.º 4 en re mayor (para oboes, fagot, trompetas, timbales, cuerdas y continuo)
 + BWV 1070: Suite para orquesta en sol menor
 + BWV 1071: Sinfonía en fa mayor

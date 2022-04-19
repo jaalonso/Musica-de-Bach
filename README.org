@@ -179,7 +179,7 @@
 + BWV 144: Nimm was dein ist, und gehe hin
 + BWV 145: Auf, mein Herz! Des Herren Tag
 + BWV 146: Wir müssen durch viel Trübsal
-+ BWV 147: Herz und Mund und Tat und Leben
++ [[https://youtu.be/38TS7EOGo9A][BWV 147: Herz und Mund und Tat und Leben]].
 + BWV 148: Bringet dem Herrn Ehre seines Namens
 + BWV 149: Man singet mit Freuden vom Sieg
 + BWV 150: Nach dir, Herr, verlanget mich
@@ -293,7 +293,7 @@
 + BWV 246: Pasión según San Lucas
 + BWV 247: Pasión según San Marcos
 + BWV 248: Oratorio de Navidad
-+ [[https://youtu.be/JBUb77bHCcw][BWV 249: Oratorio de Pascua]].
+1+ [[https://youtu.be/JBUb77bHCcw][BWV 249: Oratorio de Pascua]].
 + BWV 11: Oratorio de la Ascensión
 
 ** Corales (250-438)

@@ -1,18 +1,19 @@
 Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly/3NIEfll
 
-1. BWV 244: Pasión según San Mateo.
-2. BWV 249: Oratorio de Pascua.
-3. BWV 1041: Concierto para violín en la menor.
-4. BWV 1042: Concierto para violín en mi mayor.
-5. BWV 1046: Concierto de Brandeburgo n.º 1 en fa mayor.
-6. BWV 1047: Concierto de Brandeburgo n.º 2 en fa mayor.
-7. BWV 1048: Concierto de Brandeburgo n.º 3 en sol mayor.
-8. BWV 1049: Concierto de Brandeburgo n.º 4 en sol mayor.
-9. BWV 1050: Concierto de Brandeburgo n.º 5 en re mayor.
-10. BWV 1051: Concierto de Brandeburgo n.º 6 en si bemol.
-11. BWV 1052: Concierto para violín en re menor.
-12. BWV 1056: Concierto para violín en sol menor.
-13. BWV 1060: Concierto para violín y oboe en do menor.
-14. BWV 1064: Concierto para 3 violines y cuerdas en re mayor.
-15. BWV 1067: Suite para orquesta n.º 2 en si menor.
-16. BWV 1068: Suite para orquesta n.º 3 en re mayor.
+1. BWV 147: Herz und Mund und Tat und Leben
+2. BWV 244: Pasión según San Mateo.
+3. BWV 249: Oratorio de Pascua.
+4. BWV 1041: Concierto para violín en la menor.
+5. BWV 1042: Concierto para violín en mi mayor.
+6. BWV 1046: Concierto de Brandeburgo n.º 1 en fa mayor.
+7. BWV 1047: Concierto de Brandeburgo n.º 2 en fa mayor.
+8. BWV 1048: Concierto de Brandeburgo n.º 3 en sol mayor.
+9. BWV 1049: Concierto de Brandeburgo n.º 4 en sol mayor.
+10. BWV 1050: Concierto de Brandeburgo n.º 5 en re mayor.
+11. BWV 1051: Concierto de Brandeburgo n.º 6 en si bemol.
+12. BWV 1052: Concierto para violín en re menor.
+13. BWV 1056: Concierto para violín en sol menor.
+14. BWV 1060: Concierto para violín y oboe en do menor.
+15. BWV 1064: Concierto para 3 violines y cuerdas en re mayor.
+16. BWV 1067: Suite para orquesta n.º 2 en si menor.
+17. BWV 1068: Suite para orquesta n.º 3 en re mayor.

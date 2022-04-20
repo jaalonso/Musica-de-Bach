@@ -1164,7 +1164,7 @@
 + BWV 1003: Sonata para violín n.º 2 en la menor
 + BWV 1004: Partita para violín n.º 2 en re menor
 + BWV 1005: Sonata para violín n.º 3 en do mayor
-+ BWV 1006: Partita para violín n.º 3 en mi mayor
++ [[https://youtu.be/kKQ_GyelRsc][BWV 1006: Partita para violín n.º 3 en mi mayor]].
 
 *** [[https://es.wikipedia.org/wiki/Suites_para_violonchelo_solo_(Bach)][Suites para violonchelo solo]] (1007-1012)
 

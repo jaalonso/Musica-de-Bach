@@ -4,6 +4,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 244: Pasión según San Mateo.
 + BWV 249: Oratorio de Pascua.
 + BWV 1006: Partita para violín n.º 3 en mi mayor.
++ BWV 1028: Sonata n.º 2 en re mayor para viola de gamba y clavecín.
 + BWV 1041: Concierto para violín en la menor.
 + BWV 1042: Concierto para violín en mi mayor.
 + BWV 1046: Concierto de Brandeburgo n.º 1 en fa mayor.

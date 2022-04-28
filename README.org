@@ -1171,9 +1171,9 @@
 + BWV 1007: Suite para violonchelo n.º 1 en sol mayor
 + BWV 1008: Suite para violonchelo n.º 2 en re menor
 + BWV 1009: Suite para violonchelo n.º 3 en do mayor
-+ BWV 1010: Suite para violonchelo n.º 4 en mi bemol mayor
++ [[https://youtu.be/p1Y1HCP77KI][BWV 1010: Suite para violonchelo n.º 4 en mi bemol mayor]].
 + BWV 1011: Suite para violonchelo n.º 5 en do menor
-+ BWV 1012: Suite para violonchelo n.º 6 en re mayor
++ [[https://youtu.be/Px0j2OyXzkI][BWV 1012: Suite para violonchelo n.º 6 en re mayor]].
 
 *** Partita para flauta sola (1013)
 

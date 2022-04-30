@@ -3,6 +3,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 147: Herz und Mund und Tat und Leben.
 + BWV 244: Pasión según San Mateo.
 + BWV 249: Oratorio de Pascua.
++ BWV 861: El clave bien temperado, libro 1: Preludio y fuga n.º 16 en sol menor
 + BWV 1006: Partita para violín n.º 3 en mi mayor.
 + BWV 1010: Suite para violonchelo n.º 4 en mi bemol mayor.
 + BWV 1012: Suite para violonchelo n.º 6 en re mayor

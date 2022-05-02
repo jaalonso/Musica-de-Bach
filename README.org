@@ -1247,7 +1247,7 @@
 + BWV 1053: Concierto para clavecín y cuerdas en mi mayor
 + BWV 1054: Concierto para clavecín y cuerdas en re mayor
 + BWV 1055: Concierto para clavecín y cuerdas en la mayor
-+ BWV 1056: Concierto para clavecín y cuerdas en fa menor
++ [[https://youtu.be/3QxO5qCNd-E][BWV 1056: Concierto para clavecín y cuerdas en fa menor]].
 + BWV 1057: Concierto para clavecín, 2 flautas dulces y cuerdas en fa mayor
 + BWV 1058: Concierto para clavecín y cuerdas en sol menor
 + [[https://youtu.be/kMEEwKc1qrc][BWV 1059: Conciertos para clavecín, órgano y oboe]].
@@ -1282,7 +1282,7 @@
 ** Obras contrapuntísticas tardías (1079-1080)
 
 + BWV 1079: Ofrenda musical (Musikalisches Opfer)
-+ BWV 1080: El arte de la fuga (Die Kunst der Fuge)
++ [[https://youtu.be/Lrb0dHKJBR4][BWV 1080: El arte de la fuga]].
 
 * Adiciones más recientes de BWV (1081-1128)
 

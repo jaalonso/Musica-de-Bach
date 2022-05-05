@@ -26,4 +26,5 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 1068: Suite para orquesta n.º 3 en re mayor.
 + BWV 1079: Ofrenda musical.
 + BWV 1080: El arte de la fuga.
-+ BWV Anh. 114: Minueto.
++ BWV Anh. 114: Minueto en sol mayor.
++ BWV Anh. 132: Minueto en re menor.

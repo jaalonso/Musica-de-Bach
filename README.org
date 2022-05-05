@@ -1401,7 +1401,7 @@
 ** Cuadernos de Anna Magdalena
 
 + BWV Anh. 113: Minueto
-+ [[https://youtu.be/KqSAGwa49MM][BWV Anh. 114: Minueto]].
++ [[https://youtu.be/KqSAGwa49MM][BWV Anh. 114: Minueto en sol mayor]].
 + BWV Anh. 115: Minueto
 + BWV Anh. 116: Minueto
 + BWV Anh. 117: Minueto
@@ -1419,7 +1419,7 @@
 + BWV Anh. 129: Solo
 + BWV Anh. 130: Polonaise
 + BWV Anh. 131: Movimiento
-+ BWV Anh. 132: Minueto
++ [[https://youtu.be/Q0RMzSgpb6o][BWV Anh. 132: Minueto en re menor]].
 
 ** Más obras apócrifas
 

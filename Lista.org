@@ -3,6 +3,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 147: Herz und Mund und Tat und Leben.
 + BWV 232: Misa en si menor.
 + BWV 244: Pasión según San Mateo.
++ BWV 245: Pasión según San Juan.
 + BWV 249: Oratorio de Pascua.
 + BWV 565: Tocata y fuga en re menor.
 + BWV 861: El clave bien temperado, libro 1: Preludio y fuga n.º 16 en sol menor

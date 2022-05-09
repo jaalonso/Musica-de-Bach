@@ -289,11 +289,11 @@
 *** Pasiones y oratorios (244-249)
 
 + [[https://youtu.be/QtFXnQx3yTc][BWV 244: Pasión según San Mateo]].
-+ BWV 245: Pasión según San Juan (Johannes–Passion)
++ [[https://youtu.be/UINgoLUshzE][BWV 245: Pasión según San Juan]].
 + BWV 246: Pasión según San Lucas
 + BWV 247: Pasión según San Marcos
 + BWV 248: Oratorio de Navidad
-1+ [[https://youtu.be/JBUb77bHCcw][BWV 249: Oratorio de Pascua]].
++ [[https://youtu.be/JBUb77bHCcw][BWV 249: Oratorio de Pascua]].
 + BWV 11: Oratorio de la Ascensión
 
 ** Corales (250-438)

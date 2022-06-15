@@ -1138,7 +1138,7 @@
 
 *** Variaciones y otras piezas para teclado (988-994)
 
-+ BWV 988: Variaciones Goldberg (del Clavier-Übung IV)
++ [[https://youtu.be/lpXCu-8p1s8][BWV 988: Variaciones Goldberg]].
 + BWV 989: Aria variata alla maniera italiana, en la menor
 + BWV 990: Sarabande con partite en do mayor
 + BWV 991: Air con variaciones en do menor

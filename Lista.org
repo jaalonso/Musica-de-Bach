@@ -29,6 +29,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 1052: Concierto para violín en re menor.
 + BWV 1053: Concierto para clavecín y cuerdas en mi mayor
 + BWV 1054: Concierto para clavecín y cuerdas en re mayor.
++ BWV 1055: Concierto para clavecín y cuerdas en la mayor.
 + BWV 1056: Concierto para violín en sol menor.
 + BWV 1059: Conciertos para clavecín, órgano y oboe.
 + BWV 1060: Concierto para violín y oboe en do menor.

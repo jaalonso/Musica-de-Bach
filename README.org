@@ -1260,7 +1260,7 @@
 
 *** Suites para orquesta (1066-1071)
 
-+ BWV 1066: Suite para orquesta n.º 1 en do mayor (para viento madera, cuerdas y continuo)
++ [[https://youtu.be/deN8Hr3C46I][BWV 1066: Suite para orquesta n.º 1 en do mayor]].
 + [[https://youtu.be/x8Rv9ppP6A8][BWV 1067: Suite para orquesta n.º 2 en si menor]].
 + [[https://youtu.be/tj7MOWPjVeo][BWV 1068: Suite para orquesta n.º 3 en re mayor]].
 + [[https://youtu.be/QcKlZh755Xo][BWV 1069: Suite para orquesta n.º 4]].

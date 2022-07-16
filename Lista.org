@@ -13,6 +13,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 529: Sonata a trío en do mayor.
 + BWV 530: Sonata a trío en sol mayor.
 + BWV 531: Preludio y fuga en do mayor.
++ BWV 532: Preludio y fuga en re mayor
 + BWV 565: Tocata y fuga en re menor.
 + BWV 816: Suite francesa n.º 5 en sol mayor
 + BWV 861: El clave bien temperado, libro 1: Preludio y fuga n.º 16 en sol menor

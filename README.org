@@ -596,7 +596,7 @@
 + [[https://youtu.be/5YC4oV-lamk][BWV 532: Preludio y fuga en re mayor]].
 + [[https://youtu.be/QLS_VaTpbvA][BWV 533: Preludio y fuga en mi menor]].
 + [[https://youtu.be/SeJrv5SNZmo][BWV 534: Preludio y fuga en fa menor]].
-+ BWV 535: Preludio y fuga en sol menor
++ [[https://youtu.be/-XmRy-iS4xQ][BWV 535: Preludio y fuga en sol menor]].
 + BWV 536: Preludio y fuga en la mayor
 + BWV 537: Fantasía y fuga en do menor
 + BWV 538: Tocata y fuga en re menor ("Dórica")

@@ -569,7 +569,7 @@
 + BWV 515: So oft ich meine Tobackspfeife, aria
 + BWV 516: Warum betruebst du dich, aria
 + BWV 517: Wie wohl ist mir, o Freund der Seelen
-+ BWV 518: Wilst du dein Herz mir schenken
++ BWV 518: Wilst du dein Herz mir schenken.
 + BWV 519: Hier lieg ich nun
 + BWV 520: Das walt' mein Gott
 + BWV 521: Gott mein Herz dir Dank

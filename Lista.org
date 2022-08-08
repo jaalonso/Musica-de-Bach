@@ -10,7 +10,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 244: Pasión según San Mateo.
 + BWV 245: Pasión según San Juan.
 + BWV 249: Oratorio de Pascua.
-+ [[https://youtu.be/-b06eO8QQkI][BWV 518: Wilst du dein Herz mir schenken]].
++ BWV 518: Wilst du dein Herz mir schenken.
 + BWV 525: Sonata a trío en mi bemol mayor.
 + BWV 526: Sonata a trío en do menor.
 + BWV 527: Sonata a trío en re menor.
@@ -31,6 +31,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 542: Fantasía y fuga "grande" en sol menor.
 + BWV 565: Tocata y fuga en re menor.
 + BWV 710: Wir Christenleut.
++ BWV 718: Christ lag in Todesbanden.
 + BWV 816: Suite francesa n.º 5 en sol mayor
 + BWV 861: El clave bien temperado, libro 1: Preludio y fuga n.º 16 en sol menor
 + BWV 988: Variaciones Goldberg.

@@ -1215,7 +1215,7 @@
 + BWV 1036: Sonata en re menor para dos violines y bajo continuo
 + BWV 1037: Sonata en do mayor para dos violines y bajo continuo
 + BWV 1038: Sonata en sol mayor para flauta, violín y bajo continuo
-+ BWV 1039: Sonata en sol mayor para dos flautas y bajo continuo
++ [[https://youtu.be/gmBjWblFjIw][BWV 1039: Sonata en sol mayor para dos flautas y bajo continuo]].
 + BWV 1040: Sonata canónica en fa mayor para oboe, violín y bajo continuo
 
 ** Música orquestal (1041-1071)

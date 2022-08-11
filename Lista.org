@@ -7,6 +7,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 119: Preise Jerusalem, den Herrn.
 + BWV 147: Herz und Mund und Tat und Leben.
 + BWV 156: Cantata "Ich steh mit einem Fuß im Grabe"
++ BWV 176: Es ist ein trotzig und verzagt Ding.
 + BWV 232: Misa en si menor.
 + BWV 244: Pasión según San Mateo.
 + BWV 245: Pasión según San Juan.

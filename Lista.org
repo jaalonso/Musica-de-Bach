@@ -32,6 +32,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 541: Preludio y fuga en sol mayor.
 + BWV 542: Fantasía y fuga "grande" en sol menor.
 + BWV 565: Tocata y fuga en re menor.
++ BWV 670: Christe, aller Welt Trost.
 + BWV 710: Wir Christenleut.
 + BWV 718: Christ lag in Todesbanden.
 + BWV 816: Suite francesa n.º 5 en sol mayor

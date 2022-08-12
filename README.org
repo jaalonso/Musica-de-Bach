@@ -748,12 +748,12 @@
 
 *** Preludios corales IV: "Misa alemana para órgano" (669-689)
 
-+ BWV 669: Kyrie (versiones mayores). Kyrie, Gott Vater in Ewigkeit
-+ BWV 670: Kyrie (versiones mayores). Christe, aller Welt Trost
-+ BWV 671: Kyrie (versiones mayores). Kyrie, Gott heiliger Geist
-+ BWV 672: Kyrie (versiones menores). Kyrie, Gott Vater in Ewigkeit
-+ BWV 673: Kyrie (versiones menores). Christe, aller Welt Trost
-+ BWV 674: Kyrie (versiones menores). Kyrie, Gott heiliger Geist
++ BWV 669: Kyrie, Gott Vater in Ewigkeit
++ [[https://youtu.be/8j68-eS_IH0][BWV 670: Christe, aller Welt Trost]].
++ BWV 671: Kyrie, Gott heiliger Geist
++ BWV 672: Kyrie, Gott Vater in Ewigkeit
++ BWV 673: Christe, aller Welt Trost
++ BWV 674: Kyrie, Gott heiliger Geist
 + BWV 675: Gloria. Allein Gott in der Höh' sei Ehr' (versión menor)
 + BWV 676: Gloria. Allein Gott in der Höh' sei Ehr' (versión mayor)
 + BWV 677: Gloria. Fughetta super: Allein Gott in der Höh' sei Ehr' (versión menor)

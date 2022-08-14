@@ -4,6 +4,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 30: Cantata "Freue dich, erlöste Schar".
 + BWV 45: Cantata "Es ist dir gesagt, Mensch, was gut ist".
 + BWV 50R: Cantata "Nun ist das Heil und die Kraft".
++ BWV 102: Herr, deine Augen sehen nach dem Glauben.
 + BWV 109: Ich glaube, lieber Herr, hilf meinem Unglauben.
 + BWV 119: Preise Jerusalem, den Herrn.
 + BWV 147: Herz und Mund und Tat und Leben.

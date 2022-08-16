@@ -38,6 +38,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 710: Wir Christenleut.
 + BWV 718: Christ lag in Todesbanden.
 + BWV 814: Suite francesa n.º 3 en si menor.
++ BWV 815: Suite francesa n.º 4 en mi bemol mayor.
 + BWV 816: Suite francesa n.º 5 en sol mayor
 + BWV 861: El clave bien temperado, libro 1: Preludio y fuga n.º 16 en sol menor
 + BWV 988: Variaciones Goldberg.

@@ -7,6 +7,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 102: Herr, deine Augen sehen nach dem Glauben.
 + BWV 109: Ich glaube, lieber Herr, hilf meinem Unglauben.
 + BWV 119: Preise Jerusalem, den Herrn.
++ BWV 146: Wir müssen durch viel Trübsal.
 + BWV 147: Herz und Mund und Tat und Leben.
 + BWV 156: Cantata "Ich steh mit einem Fuß im Grabe"
 + BWV 173: Erhöhtes Fleisch und Blut.

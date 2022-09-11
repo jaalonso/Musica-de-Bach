@@ -3,6 +3,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 29: Wir danken dir, Gott, wir danken dir.
 + BWV 30: Cantata "Freue dich, erlöste Schar".
 + BWV 45: Cantata "Es ist dir gesagt, Mensch, was gut ist".
++ BWV 69: Lobe den Herrn, meine Seele.
 + BWV 50R: Cantata "Nun ist das Heil und die Kraft".
 + BWV 102: Herr, deine Augen sehen nach dem Glauben.
 + BWV 109: Ich glaube, lieber Herr, hilf meinem Unglauben.

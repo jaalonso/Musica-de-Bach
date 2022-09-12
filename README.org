@@ -738,9 +738,9 @@
 + BWV 659: Nun komm, der Heiden Heiland
 + BWV 660: Trio super: Nun komm, der Heiden Heiland
 + BWV 661: Nun komm, der Heiden Heiland
-+ BWV 662: Allein Gott in der Höh' sei Ehr'
-+ BWV 663: Allein Gott in der Höh' sei Ehr'
-+ BWV 664: Trio super: Allein Gott in der Höh' sei Ehr'
++ BWV 662: Allein Gott in der Höh' sei Ehr
++ BWV 663: Allein Gott in der Höh' sei Ehr
++ [[https://youtu.be/YYshP59d-p4][BWV 664: Allein Gott in der Höh' sei Ehr]].
 + BWV 665: Jesus Christus, unser Heiland
 + BWV 666: Jesus Christus, unser Heiland (alio modo)
 + BWV 667: Komm, Gott Schöpfer, heiliger Geist

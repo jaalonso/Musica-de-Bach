@@ -372,7 +372,7 @@
 + BWV 321: Gottlob, es geht nunmehr zu Ende
 + BWV 322: Gott sei gelobet und gebenedeiet/Meine Seele erhebet den Herrn
 + BWV 323: Gott sei uns gnädig
-+ BWV 324: Meine Seele erhebet den Herrn
++ [[https://youtu.be/m6ehSlK7ij8][BWV 324: Meine Seele erhebet den Herrn]].
 + BWV 325: Heilig, heilig
 + BWV 326: Herr Gott, dich loben alle wir
 + BWV 327: Für deinen Thron tret' ich hiermit

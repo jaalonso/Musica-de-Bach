@@ -1,5 +1,6 @@
 Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly/3NIEfll
 
++ BWV 1: Wie schön leuchtet der Morgenstern.
 + BWV 29: Wir danken dir, Gott, wir danken dir.
 + BWV 30: Cantata "Freue dich, erlöste Schar".
 + BWV 45: Cantata "Es ist dir gesagt, Mensch, was gut ist".

@@ -52,6 +52,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 861: El clave bien temperado, libro 1: Preludio y fuga n.º 16 en sol menor
 + BWV 911: Tocata en do menor.
 + BWV 988: Variaciones Goldberg.
++ BWV 997: Suite en do menor.
 + BWV 1006: Partita para violín n.º 3 en mi mayor.
 + BWV 1007: Suite para violonchelo n.º 1 en sol mayor.
 + BWV 1010: Suite para violonchelo n.º 4 en mi bemol mayor.

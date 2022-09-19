@@ -14,6 +14,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 146: Wir müssen durch viel Trübsal.
 + BWV 147: Herz und Mund und Tat und Leben.
 + BWV 156: Cantata "Ich steh mit einem Fuß im Grabe"
++ BWV 161: Komm, du süße Todesstunde.
 + BWV 173: Erhöhtes Fleisch und Blut.
 + BWV 176: Es ist ein trotzig und verzagt Ding.
 + BWV 232: Misa en si menor.

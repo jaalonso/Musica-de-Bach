@@ -967,7 +967,7 @@
 **** Libro I
 
 + BWV 846: El clave bien temperado, libro 1: Preludio y fuga n.º 1 en do mayor
-+ BWV 847: El clave bien temperado, libro 1: Preludio y fuga n.º 2 en do menor
++ [[https://youtu.be/Xqr-PGgTWwk][BWV 847: El clave bien temperado, libro 1: Preludio y fuga n.º 2 en do menor]].
 + BWV 848: El clave bien temperado, libro 1: Preludio y fuga n.º 3 en do sostenido mayor
 + BWV 849: El clave bien temperado, libro 1: Preludio y fuga n.º 4 en do sostenido menor
 + BWV 850: El clave bien temperado, libro 1: Preludio y fuga n.º 5 en re mayor

@@ -1,6 +1,7 @@
 Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly/3NIEfll
 
 + BWV 1: Wie schön leuchtet der Morgenstern.
++ BWV 14: Wär Gott nicht mit uns diese Zeit
 + BWV 29: Wir danken dir, Gott, wir danken dir.
 + BWV 30: Cantata "Freue dich, erlöste Schar".
 + BWV 45: Cantata "Es ist dir gesagt, Mensch, was gut ist".
@@ -66,6 +67,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 1012: Suite para violonchelo n.º 6 en re mayor
 + BWV 1014: Sonata en si menor para violín y clavecín.
 + BWV 1017: Sonata en do menor para violín y clavecín.
++ BWV 1019: Sonata en sol mayor para violín y clavecín
 + BWV 1028: Sonata n.º 2 en re mayor para viola de gamba y clavecín.
 + BWV 1039: Sonata en sol mayor para dos flautas y bajo continuo.
 + BWV 1041: Concierto para violín en la menor.

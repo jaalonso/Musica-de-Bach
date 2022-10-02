@@ -68,6 +68,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 1010: Suite para violonchelo n.º 4 en mi bemol mayor.
 + BWV 1012: Suite para violonchelo n.º 6 en re mayor
 + BWV 1014: Sonata en si menor para violín y clavecín.
++ BWV 1015: Sonata en la mayor para violín y clavecín.
 + BWV 1016: Sonata en mi mayor para violín y clavecín.
 + BWV 1017: Sonata en do menor para violín y clavecín.
 + BWV 1018: Sonata en fa menor para violín y clavecín.

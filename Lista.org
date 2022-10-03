@@ -56,6 +56,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 816: Suite francesa n.º 5 en sol mayor
 + BWV 825: Partita n.º 1 en si bemol mayor.
 + BWV 829: Partita n.º 5 en sol mayor.
++ BWV 846: El clave bien temperado, libro 1: Preludio y fuga n.º 1 en do mayor.
 + BWV 847: El clave bien temperado, libro 1: Preludio y fuga n.º 2 en do menor.
 + BWV 861: El clave bien temperado, libro 1: Preludio y fuga n.º 16 en sol menor
 + BWV 871: El clave bien temperado, libro 2: Preludio y fuga n.º 2 en do menor.

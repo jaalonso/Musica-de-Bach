@@ -61,6 +61,7 @@ Música de Johann Sebastian Bach ordenada según el catálogo BWV https://bit.ly
 + BWV 847: El clave bien temperado, libro 1: Preludio y fuga n.º 2 en do menor.
 + BWV 861: El clave bien temperado, libro 1: Preludio y fuga n.º 16 en sol menor
 + BWV 871: El clave bien temperado, libro 2: Preludio y fuga n.º 2 en do menor.
++ BWV 872: El clave bien temperado, libro 2: Preludio y fuga n.º 3 en do sostenido mayor
 + BWV 894: Preludio y fuga en la menor.
 + BWV 911: Tocata en do menor.
 + BWV 988: Variaciones Goldberg.
